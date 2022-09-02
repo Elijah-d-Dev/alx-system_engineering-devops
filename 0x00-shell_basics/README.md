@@ -1,1 +1,1 @@
-list out the path
+changes working directory to user home directory
