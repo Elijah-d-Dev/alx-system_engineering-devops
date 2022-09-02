@@ -1,1 +1,1 @@
-it prints the command to show the absolute path name
+list out the path
