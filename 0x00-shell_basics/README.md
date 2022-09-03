@@ -1,1 +1,1 @@
-deletes the directory
+deletes the directory well
