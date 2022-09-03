@@ -1,1 +1,1 @@
-sets the mode of two files together
+its too long
