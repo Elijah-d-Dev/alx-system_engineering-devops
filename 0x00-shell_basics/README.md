@@ -1,1 +1,1 @@
-deletes files in the wirking directory
+creates number of directories
