@@ -1,1 +1,1 @@
-switches the curre t yser to betty
+prints effective username
