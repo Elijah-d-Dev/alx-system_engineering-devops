@@ -1,1 +1,1 @@
-creates number of directories
+lists files and directories
