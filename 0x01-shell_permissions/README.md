@@ -1,1 +1,1 @@
-adds permisions to the owner of the file
+adds oermissions to user,group and others
