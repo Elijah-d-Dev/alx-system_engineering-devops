@@ -1,1 +1,1 @@
-moves file beginning with uppercase
+deletes files in the wirking directory
