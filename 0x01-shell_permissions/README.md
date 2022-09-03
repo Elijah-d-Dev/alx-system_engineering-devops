@@ -1,1 +1,1 @@
-creates a directory with permission
+changes ownership of from one grouo to another
