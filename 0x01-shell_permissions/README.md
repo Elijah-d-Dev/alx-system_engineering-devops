@@ -1,1 +1,1 @@
-changes the ownership of files
+Write a script that will play the StarWars IV episode in the terminal
